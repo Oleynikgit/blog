@@ -22,7 +22,7 @@ organizations:
     url: https://rund.ru
 
 # Short bio (displayed in user profile at end of posts)
-bio: Студент университета РУДН,занимаюсь Компьютерными и математическими науками.Параллельно изучая языки программирования такие как: С++ , Python , PostgreSQL , JavaScript , HTML , CSS , GO.
+bio: RUDN student working on developping and learning languages like: С++ , Python , PostgreSQL , JavaScript , HTML , CSS , GO.
 
 # Interests to show in About widget
 interests:
@@ -73,5 +73,5 @@ email: 'obertinskiyovosh@mail.ru'
 highlight_name: true
 ---
 
-Студент ВУЗа Олейник Артём,занимаюсь компьютерными и математическами науками,учу иностранные языки и изучая математику
+RUDN student Oleynik Artem,learning programming languages and foreign languages,study in university and communicate with interesting people :)
 {style="text-align: justify;"}
