@@ -79,10 +79,26 @@ header-includes:
 Нужно пройти курс на stepik,вся нужная информация для успешного прохождения содержится в видео и лекциях(они идут в пдф формате,что очень удобно,можно пользоваться поиском по слову).
 # 4	Выполнение лабораторной работы
     1. Войти на stepik,и ВНИМАТЕЛЬНО изучить материалы к курсу,чтобы "не тыкать пальцем в небо" при выборе ответа.
+![Image alt](https://github.com/Oleynikgit/blog/blob/main/VneshniyKyrc2024/sc1.png)
+![Image alt](https://github.com/Oleynikgit/blog/blob/main/VneshniyKyrc2024/sc2.png)
+![Image alt](https://github.com/Oleynikgit/blog/blob/main/VneshniyKyrc2024/sc3.png)
+![Image alt](https://github.com/Oleynikgit/blog/blob/main/VneshniyKyrc2024/sc4.png)
+![Image alt](https://github.com/Oleynikgit/blog/blob/main/VneshniyKyrc2024/sc5.png)
+![Image alt](https://github.com/Oleynikgit/blog/blob/main/VneshniyKyrc2024/sc6.png)
+![Image alt](https://github.com/Oleynikgit/blog/blob/main/VneshniyKyrc2024/sc7.png)
+![Image alt](https://github.com/Oleynikgit/blog/blob/main/VneshniyKyrc2024/sc8.png)
+![Image alt](https://github.com/Oleynikgit/blog/blob/main/VneshniyKyrc2024/sc9.png)
+![Image alt](https://github.com/Oleynikgit/blog/blob/main/VneshniyKyrc2024/sc10.png)
+![Image alt](https://github.com/Oleynikgit/blog/blob/main/VneshniyKyrc2024/sc11.png)
+![Image alt](https://github.com/Oleynikgit/blog/blob/main/VneshniyKyrc2024/sc12.png)
+![Image alt](https://github.com/Oleynikgit/blog/blob/main/VneshniyKyrc2024/sc13.png)
     2.Успешно пройти курс используя материалы на сайте,и получить заветный "сертификат" о прохождении.
+![Image alt](https://github.com/Oleynikgit/blog/blob/main/VneshniyKyrc2024/sc14Sertified.png)
     3.Найти папку со своим сайтом из прошлого курса,если не получилось,скачать с гитхаба куда выкладывали.
+![Image alt](https://github.com/Oleynikgit/blog/blob/main/VneshniyKyrc2024/sc15.png)
     4.Отредактировать сайт(с этим проблем абсолютно не возникает,старые лекции в помощь)
     5.Обновить информацию на гитхабе: Выложить актуальный сайт,добавить папку с проектом и скриншоты
+![Image alt](https://github.com/Oleynikgit/blog/blob/main/VneshniyKyrc2024/sc14Sertified.png)
 # 5	Выводы
 Вспомнил,как редактировать hugo сайт,узнал много нового про фишинг, и почему так важно подбирать надежный пароль,узнал,про криптовалюту и появились знания блокчейна.Курс крайне интересный и информативный,но маленький.
 
